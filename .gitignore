@@ -1,0 +1,9 @@
+# MacOS specific
+.DS_Store
+
+# Editor-specific
+.idea/
+.vscode/
+
+# Env
+.env
